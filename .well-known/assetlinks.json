@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "com.bbmessage.yungz",
-        "sha256_cert_fingerprints": ["38:00:0C:EE:A5:7B:28:FC:BB:DE:BE:3E:B2:C6:67:5E:34:A8:16:98:F3:29:00:B7:3F:20:1A:AC:C8:58:1A:D0"]
+        "package_name": "com.bayuptbga.privatechat",
+        "sha256_cert_fingerprints": ["D7:3E:9E:96:F7:A3:D8:6B:51:36:D8:19:0D:61:6E:36:44:03:62:C2:59:1E:53:7C:4B:75:98:A7:B4:BA:C3:4A"]
       }
     }]
