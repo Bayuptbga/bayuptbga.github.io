@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "com.bayuptbga.privatechat",
-        "sha256_cert_fingerprints": ["D7:3E:9E:96:F7:A3:D8:6B:51:36:D8:19:0D:61:6E:36:44:03:62:C2:59:1E:53:7C:4B:75:98:A7:B4:BA:C3:4A"]
+        "package_name": "com.bakuchat.id",
+        "sha256_cert_fingerprints": ["1A:D9:0E:31:80:40:9A:D7:52:9F:B8:2B:9D:D9:42:93:D3:11:2F:2E:F1:65:37:5B:F1:33:A3:9F:2C:F7:A7:BA"]
       }
     }]
