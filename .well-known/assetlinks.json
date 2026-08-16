@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.bakuchat.id",
-        "sha256_cert_fingerprints": ["77:7E:61:27:ED:0F:95:AD:B5:E2:EA:AD:D8:CE:93:78:66:71:DB:83:2B:9D:37:AA:D9:8D:75:8F:67:43:F4:91"]
+        "sha256_cert_fingerprints": ["46:E3:28:C0:F1:FE:77:B6:57:D2:FF:EF:5D:E8:7C:4E:29:E3:15:A9:C9:2A:40:94:46:03:A4:33:8B:E5:49:1B"]
       }
     }]
